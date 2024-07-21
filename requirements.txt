@@ -1,9 +1,9 @@
-aiohttp
-pyrofork
+aiohttp==3.9.0
+git+https://github.com/Hrishi2861/pyrofork-2.2.11-peer-fix.git
 python-dotenv
 tgcrypto
 motor
 aiofiles
-dnspython
+dnspython==2.5.0
 requests
 jinja2
